@@ -1,3 +1,5 @@
+## Please consider these instructions a BETA until they are absorbed and reformatted into the EduKit 3 worksheets.
+
 # Remote control for CamJam EduKit 3 using SSH and a keyboard
 
 What you’ll need:
